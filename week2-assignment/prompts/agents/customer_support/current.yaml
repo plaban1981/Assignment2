@@ -1,0 +1,3 @@
+# This file points to the current active version
+# For quick rollbacks, change the version below
+current_version: "v1.1.0"
